@@ -6,7 +6,7 @@ This repository contains an implementation of Mask-RCNN ased on the Matterport i
 ### Prerequisites
 
 The required libraries are:
-python = 3.6
+python = 3.6 \n
 tensorflow-gpu = 1.14
 
 And the following with the latest compatible version:
