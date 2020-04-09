@@ -1,6 +1,6 @@
 # A Tensorflow Implementation of Mask-RCNN
 
-This repository contains an implementation of Mask-RCNN ased on the Matterport implementation. The network is fully developed in tensorflow 1.14 with no keras fuction inside.
+This repository contains an implementation of Mask-RCNN based on the Matterport implementation. The network is fully developed in tensorflow 1.14 with no keras function inside.
 
 
 ### Prerequisites
