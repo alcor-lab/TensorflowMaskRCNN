@@ -36,7 +36,7 @@ This repository also offers a sample script to prepare data for training.
 
 ## Authors
 
-* **Edoardo Alati & Malik Bekmurat** 
+* **Edoardo Alati (Edwyn00) & Malik Bekmurat (bekmake)** 
 
 
 ## Acknowledgments
