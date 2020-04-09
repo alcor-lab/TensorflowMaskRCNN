@@ -28,7 +28,7 @@ Run on Jupyter the Demo.ipynb file to check how to detect and test the time perf
 
 In order to allow a soft passage from Keras version to Tensorflow version, we develop a script to convert your .h5 weights file in tensorflow checkpoints. The generated checkpoints will perfectly reproduce the performances of your keras version model.
 
-## Offered dataset and prepare data scripts
+## Available dataset and prepare data scripts
 
 This repository has been developed in the context of Second Hands European project and an associated dataset had been created:
 https://github.com/alcor-lab/SecondHandsDataset
